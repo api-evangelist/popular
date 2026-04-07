@@ -1,7 +1,12 @@
 aid: popular
-url: https://raw.githubusercontent.com/api-evangelist/popular/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/popular/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.popular.com
+description: >-
+  Popular Inc. is a financial holding company offering retail, mortgage, and commercial
+  banking services through its principal subsidiaries Banco Popular de Puerto Rico
+  and Popular Bank in the continental United States.
