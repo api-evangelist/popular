@@ -5,7 +5,18 @@ description: >-
   commercial banking services through its principal subsidiaries Banco Popular
   de Puerto Rico and Popular Bank in the continental United States.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/popular.png
 tags:
   - Banking
   - Financial Services
