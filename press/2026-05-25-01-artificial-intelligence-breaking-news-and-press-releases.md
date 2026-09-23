@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence Breaking News and Press Releases
 url: https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Popular" press release artificial intelligence'
 position: 1
 source: serpapi-google
