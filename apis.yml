@@ -28,7 +28,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/popular.png
 tags:
 - Banking
-- Financial-Services
+- Financial Services
 - Mortgage
 - Puerto Rico
 - Fortune 1000
@@ -38,6 +38,7 @@ tags_raw:
 - Mortgage
 - Puerto Rico
 - Fortune 1000
+- Financial-Services
 url: https://raw.githubusercontent.com/api-evangelist/popular/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
