@@ -34,3 +34,45 @@
     detected: '2026-10-18'
   status: not-a-workflow
   arazzo: null
+- slug: popular-cfpb-supervised-depository-institutions-and-affiliates
+  label: CFPB supervised depository institutions and affiliates
+  partner_name: CFPB supervised depository institutions and affiliates
+  category: US CFPB consumer-finance supervision (depository institution over $10B)
+  type: register
+  channel: regulator-register
+  evidence: https://files.consumerfinance.gov/f/documents/CFPB_Institutions_06302026_Dist.xlsx
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: CFPB supervised depository institutions and affiliates
+    spec_file: null
+    standard: null
+    role: supervised-institution
+    registrations:
+    - registered_name: BANCO POPULAR DE PUERTO RICO
+      licences:
+      - depository institution over $10B
+      register_country: US
+      matched_domain: popular.com
+      matched_by: domain
+      register_id: '940311'
+      state: PR
+      prudential_regulator: FRS
+      identity: wikidata Q7229656 'Popular, Inc.' P856 https://www.popular.com/
+    - registered_name: POPULAR BANK
+      licences:
+      - depository institution over $10B
+      register_country: US
+      matched_domain: popular.com
+      matched_by: domain
+      register_id: '2736291'
+      state: NY
+      prudential_regulator: FRS
+      identity: wikidata Q7229656 'Popular, Inc.' P856 https://www.popular.com/
+    signal_note: 'participation only: a regulator licence / supervision listing; no API conformance is published
+      by this register'
+    detected_by: sweep-consumer-lending-licensing.py
+    detected: '2026-10-21'
+    identity_source: wikidata P856 (labelled provenance step; Kin 2026-10-15 decision 1)
+  status: not-a-workflow
+  arazzo: null
